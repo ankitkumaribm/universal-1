@@ -46,7 +46,7 @@
           "component": "text",
           "valueType": "string",
           "name": "imageAlt",
-          "label": "Alt"
+          "label": "Alt1"
         },        
         {
           "component": "richtext",
